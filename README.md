@@ -1,26 +1,4 @@
-# Animated Landing Website
+# NETWORKING
+Your One Stop Network Solution
 
-## Getting Started
-
-This is fully animated and responsive landing webpage made with nextjs , tailwind css (styling) and framer-motion (for animation).
-
-Used Technology
-
-- NextJs
-- TailwindCSS
-- Framer-motion
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+![image](https://github.com/user-attachments/assets/7141676d-cc65-4757-96dd-a2d88c7ab35d)
