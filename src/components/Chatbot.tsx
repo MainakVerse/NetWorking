@@ -18,7 +18,7 @@ interface Conversation {
 
 // API key config (better to store in environment variables)
 const GEMINI_API_KEY = process.env.NEXT_PUBLIC_GEMINI_API_KEY || 'YOUR_GEMINI_API_KEY';
-const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent';
+const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 const ChatInterface: React.FC = () => {
   const [inputText, setInputText] = useState('');
